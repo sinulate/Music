@@ -1,33 +1,34 @@
-Suno V5 - Gold Standard Prompt Library
+# Suno V5 - Gold Standard Prompt Library
 
-Reference Guide for The Sonic Architect
+## Reference Guide for The Sonic Architect
 
-—————————————————————————\
+---
 
-\
+## 1. Cyberpunk - I Really Want to Stay at Your House (GG Studio Remix)
 
-Cyberpunk - I Really Want to Stay at Your House (GG Studio Remix)
+**Technical Details**
 
+```md
 Genre: Acoustic Sadcore / Anime Ballad
 
 Vibe: Heartbreaking, Intimate, Fragile, Ethereal
 
 Key Instruments: Grand Piano, Virtuosic Acoustic Violin
 
-Special Technique: 
+Special Technique: [Vocal Breakdown (Crying Solo)] - Acts as an emotional modifier, triggering extreme intimacy and a fragile, trembling vocal delivery (rather than literal crying).
 
-$$Vocal Breakdown (Crying Solo)$$
+```
 
- - Acts as an emotional modifier, triggering extreme intimacy and a fragile, trembling vocal delivery (rather than literal crying).
+**Keywords**
 
-Keywords
-
+```md
 Sad, Anime Song, Breathy Female Vocals, Heartbreak, ASMR Singing, Emotional Ballad, Whispered Singing, Close-Mic Breathing, Fragile Delivery, Intimate Whisper, Breath-Heavy, Soft-Spoken, Gentle Exhale, Breath Control
 
+```
 
+**Lyrics Prompt**
 
-Lyrics Prompt
-
+```md
 [Intro]
 (A sparse, melancholic grand piano melody, played with a soft touch. Each note has a long, natural decay. A single, sorrowful, virtuosic acoustic violin note hangs in the air, full of longing.)
 
@@ -102,46 +103,49 @@ I don't wonna know
 [Outro]
 (The track deconstructs beautifully. The violin holds a final, sorrowful note that fades away, leaving only the sparse piano melody. The piano plays the final phrase slowly, before ending on a single, sustained note that rings out into a long, silent decay.)
 
+```
 
+**Positive Style Prompt**
 
-Positive Style Prompt
+```md
+Emotional Cinematic Sadcore, Acoustic Ballad, Anime Soundtrack. A purely acoustic, "unplugged" performance. The sound is pristine, intimate, and deeply atmospheric, as if recorded in a world-class concert hall to capture natural acoustics. The only instrumentation is a masterful grand piano and a virtuosic, masterful acoustic violin. The violin is the lead, playing weeping, sorrowful, and expressive melodies. The song's emotional centerpiece is a meticulously orchestrated, non-lyrical event: a [Vocal Breakdown (Crying Solo)] featuring the raw, standalone sound effect of audible, heartbreaking crying. The lead vocal is a high-pitched, ethereal female singer with a Japanese accent, and her performance is extremely breathy, fragile, and vulnerable.
 
-Emotional Cinematic Sadcore, Acoustic Ballad, Anime Soundtrack. A purely acoustic, "unplugged" performance. The sound is pristine, intimate, and deeply atmospheric, as if recorded in a world-class concert hall to capture natural acoustics.  
-The only instrumentation is a masterful grand piano and a virtuosic, masterful acoustic violin. The violin is the lead, playing weeping, sorrowful, and expressive melodies.  
-The song's emotional centerpiece is a meticulously orchestrated, non-lyrical event: a `[Vocal Breakdown (Crying Solo)]` featuring the raw, standalone sound effect of audible, heartbreaking crying. The lead vocal is a high-pitched, ethereal female singer with a Japanese accent, and her performance is extremely breathy, fragile, and vulnerable.
+```
 
+**Negative Style Prompt**
 
-
-Negative Style Prompt
-
+```md
 synthesizers, synth pads, drum machines, electronic drums, electric bass, drums, percussion, electric guitar, bass guitar, acoustic guitar, upbeat, happy, pop, rock, triumphant, epic fanfares, belting, powerful chest voice, aggressive delivery, growling, overly compressed, loud, distorted, lo-fi
 
+```
 
+---
 
-—————————————————————————
+## 2. A Touch of String Theory (Hybrid Minds - Touch vs GG Studio - String Theory)
 
-2. A Touch of String Theory (Hybrid Minds - Touch vs GG Studio - String Theory)
+**Technical Details**
 
+```md
 Genre: Symphonic Liquid Drum & Bass
 
 Vibe: Kinetic, Crystal Clear, Emotional, Virtuosic
 
 Key Instruments: Grand Piano, Spiccato Violin, Reese Bass, Liquid Breakbeats
 
-Special Technique: 
+Special Technique: [Instrumental Duel] - High-speed staccato interplay between Piano and Violin over a Liquid breakbeat (Audiophile Separation).
 
-$$Instrumental Duel$$
+```
 
- - High-speed staccato interplay between Piano and Violin over a Liquid breakbeat (Audiophile Separation).
+**Keywords**
 
-Keywords
-
+```md
 Liquid Drum and Bass, Symphonic Hybrid, Solo Female Vocals, Young Tone 21yo, Dry Vocal Production, Close-Mic Proximity, Airy ASMR Vocal Texture, Short Vocal Phrasing, Grand Piano vs Solo Violin Duel, Fast Rolling Arpeggios, Spiccato Bowing, Deep Clean Reese Bass, Punchy Snare, 174 BPM, Audiophile Instrument Separation
 
+```
 
+**Lyrics Prompt**
 
-Lyrics Prompt
-
+```md
 [Intro - High-Definition Separation]
 [Silence. A pristine acoustic space. The instruments are panned clearly: Piano Left, Violin Right.]
 [The Duel Starts Immediately: Rapid, percussive staccato notes traded between the instruments.]
@@ -237,44 +241,49 @@ This new feel-ing, yeah!
 [Ritardando]
 [Final Chord: A clean, resolved Piano chord decays into silence.]
 
+```
 
+**Positive Style Prompt**
 
-Positive Style Prompt
-
+```md
 Liquid Drum and Bass, Symphonic Hybrid, Solo Female Vocals, Young Tone 21yo, Dry Vocal Production, Close-Mic Proximity, Airy ASMR Vocal Texture, Short Vocal Phrasing, Grand Piano vs Solo Violin Duel, Fast Rolling Arpeggios, Spiccato Bowing, Deep Clean Reese Bass, Punchy Snare, 174 BPM, Audiophile Instrument Separation, Wide Stereo Field, Crystal Clear Transients, Hybrid Minds Style, Virtuosic Performance, High Fidelity, Unplugged Elements.
 
+```
 
+**Negative Style Prompt**
 
-Negative Style Prompt
-
+```md
 Vocal layering, double tracking, backing vocals, chorus effect, harmonies, reverb wash on vocals, long sustained notes, vocal runs, over-singing, muddy mix, distortion, clipping, electric guitar, rock, heavy metal, robotic vocals, auto-tune, wall of sound, frequency masking, lo-fi, silence artifacts, mumbling, shouting.
 
+```
 
+---
 
-—————————————————————————
+## 3. GG Studio - Rekt (Original Mix)
 
-3. GG Studio - Rekt (Original Mix)
+**Technical Details**
 
+```md
 Genre: Dark Progressive Psytrance / Erotic ASMR
 
 Vibe: Intense, Breathless, Hypnotic, Raw
 
 Key Instruments: Rolling KBBB Bassline, Tech Trance Synths, Close-Mic Breath Vocals
 
-Special Technique: 
+Special Technique: [Rhythmic Breath Loops] - Utilizing breath, moans, and whispered phrases as percussive elements locked to the grid, rather than melodic singing.
 
-$$Rhythmic Breath Loops$$
+```
 
- - Utilizing breath, moans, and whispered phrases as percussive elements locked to the grid, rather than melodic singing.
+**Keywords**
 
-Keywords
-
+```md
 Erotic ASMR, Female Spoken Word, Airy Female Vocals, Breathy Whisper, Heavy Breathing, Erotica, Non-Melodic Vocals, Raw Audio, Wet Mouth Sounds, Dark Progressive Psytrance, 142 BPM, Rolling Bassline, Triplet Bass, Tech Trance, Glitch Effects, Extreme Close-Up Vocals
 
+```
 
+**Lyrics Prompt**
 
-Lyrics Prompt
-
+```md
 [Intimate ASMR Intro - No Music - Extreme Close Mic]
 (wet mouth sounds)
 (shaky inhale right ear) Mmmm... oh wow...
@@ -356,46 +365,49 @@ Lyrics Prompt
 (whispered) Oh fuck... that was good.
 (whispered) You absolutely wrecked me.
 
+```
 
+**Positive Style Prompt**
 
-Positive Style Prompt
-
+```md
 Erotic ASMR, Female Spoken Word, Airy Female Vocals, Breathy Whisper, Heavy Breathing, Erotica, Non-Melodic Vocals, Raw Audio, Wet Mouth Sounds. Musical Accompaniment: Dark Progressive Psytrance, 142 BPM, Rolling Bassline (KBBB), Triplet Bass, Tech Trance, Glitch Effects. Production: Extreme Close-Up Vocals, Dry Vocal Mix, Wide Stereo Image, High Fidelity, Sidechain Compression.
 
+```
 
+**Negative Style Prompt**
 
-Negative Style Prompt
-
+```md
 Singing, Melody, Chanting, Rapping, Hip Hop, Pop Music, Chorus, Verse, Harmony, Auto-tune, Pitch Correction, Reverb on Vocals, Orchestral, Rock, Jazz, Male Vocals, Instrumental Only, Robotic, Choir, Distortion on Vocals.
 
+```
 
+---
 
-—————————————————————————
+## 4. GG Studio - Spine Tingler (Original Mix)
 
-4. GG Studio - Spine Tingler (Original Mix)
+**Technical Details**
 
+```md
 Genre: Psydub / Glitch Hop
 
 Vibe: Erotic, Minimalist, Precision, Hypnotic
 
 Key Instruments: Deep Sine Bass, Glitch Synths, Granular Textures, Close-Mic Whispers
 
-Special Technique: 
+Special Technique: [Call & Response Glitch] - Vocal phrases are immediately mimicked and processed by granular synthesis, creating a dialogue between human and machine.
 
-$$Call & Response Glitch$$
+```
 
- - Vocal phrases are immediately mimicked and processed by granular synthesis, creating a dialogue between human and machine.
+**Keywords**
 
-—————————————————————————
-
-Keywords
-
+```md
 Psydub, Glitch Hop, Call and Response, Granular Synthesis, Erotic ASMR, 3D Audio, Negative Space, Deep Sub-Bass, Binaural Panning, Whisper Vocals, Clicks and Cuts, IDM Textures
 
+```
 
+**Lyrics Prompt**
 
-Lyrics Prompt
-
+```md
 [Intro - Extended Atmosphere - The Void - 115 BPM]
 (Absolute Silence - 4 Bars)
 (Whispered Dry - Center) Oh my god...
@@ -522,15 +534,20 @@ Lyrics Prompt
 (Silence)
 [End]
 
+```
 
+**Positive Style Prompt**
 
-Positive Style Prompt
-
+```md
 Psydub, Glitch Hop, Clean Production, High Fidelity, 115 BPM, Extended Mix, 6 Minute Track, Call and Response, Vocal Chopping, Granular Synthesis, Precision Gating, Negative Space, Deep Clean Sub-Bass, Digital Glitch, 3D Audio, Binaural Panning, Ping Pong Delay, IDM Textures, Erotic ASMR, Dry Vocal Mix, Minimalist, Clicks and Cuts, Progressive Structure
 
+```
 
+**Negative Style Prompt**
 
-Negative Style Prompt
-
+```md
 Short Track, Radio Edit, Muddy Mix, Distortion, Chaos, Wall of Sound, Reverb on Kick, Fast Tempo, 140 BPM, Trance, Opera, Chanting, Rock, Metal, Screaming, Lo-Fi, Analog Hiss, Background Noise, Overcrowded Mix, Generic EDM, Uplifting, Major Key
 
+```
+
+---
